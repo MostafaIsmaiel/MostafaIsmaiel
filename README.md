@@ -1,3 +1,6 @@
-- 👋 Hi, I’m Mostafa Ismaiel
-- 👀 I’m interested in front-end development
-- 📫 How to reach me?, send me on mostafaismaiel10@gmail.com or you can chat with me on https://www.linkedin.com/in/mostafa-ismaiel-068169185
+###👋 Hi there, I’m Mostafa Ismaiel
+# I’m a front-end developer
+
+### Contact with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
