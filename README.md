@@ -18,6 +18,7 @@
 * Ajax / Deal with API's
 * jQuery
 * React / React Hooks
+* Redux
 * Git / Github
 * VS Code
 * Command line
