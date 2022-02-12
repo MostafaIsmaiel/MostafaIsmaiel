@@ -18,6 +18,7 @@
 * Ajax / Deal with API's
 * jQuery
 * React / React Hooks
+* Material UI
 * Redux
 * Git / Github
 * VS Code
