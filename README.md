@@ -18,8 +18,10 @@
 * Ajax / Deal with API's
 * jQuery
 * React / React Hooks
-* Material UI
 * Redux
+* Material UI
+* Framer-Motion
+* Formik - Yup
 * Git / Github
 * VS Code
 * Command line
