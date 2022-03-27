@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Firebase**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MostafaIsmaiel](https://github.com/MostafaIsmaiel)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/MostafaIsmaiel)
 
 - 💬 Ask me about **JS, React.js**
 
 - 📫 How to reach me **mostafaismaiel10@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1wFdjPQ_DOd3askSHkWl0m9O-Lim5MvWQ/edit?usp=sharing&ouid=102033863505463727427&rtpof=true&sd=true](https://docs.google.com/document/d/1wFdjPQ_DOd3askSHkWl0m9O-Lim5MvWQ/edit?usp=sharing&ouid=102033863505463727427&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1wFdjPQ_DOd3askSHkWl0m9O-Lim5MvWQ/edit?usp=sharing&ouid=102033863505463727427&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
