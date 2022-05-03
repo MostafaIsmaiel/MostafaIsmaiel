@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafaismaiel&label=Profile%20views&color=0e75b6&style=flat" alt="mostafaismaiel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafaismaiel" alt="mostafaismaiel" /></a> </p>
 
 - 🌱 I’m currently learning **Firebase**
  
@@ -13,7 +12,7 @@
 
 - 📫 How to reach me **mostafaismaiel10@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1wFdjPQ_DOd3askSHkWl0m9O-Lim5MvWQ/edit?usp=sharing&ouid=102033863505463727427&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cbtlLGZxpNdZ3sVN6OGOCFt32ZfKYAX_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
