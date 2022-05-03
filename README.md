@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mostafaismaiel10@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cbtlLGZxpNdZ3sVN6OGOCFt32ZfKYAX_/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cbtlLGZxpNdZ3sVN6OGOCFt32ZfKYAX_/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
